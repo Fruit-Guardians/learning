@@ -4,11 +4,11 @@ web-24-felix
 
 ## Hackber
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=MDEyZWQyYTdiZTk1MjhjZDk3ZDFiZTcxZjcwMjYzNGFfT1labFZsaVZURk14Y1BMd1p2TUNjczFnSjNLcXRIYVpfVG9rZW46VXdEcWJnVmpGb0JLREd4UVUzdGNicDM1blFjXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985599-29.png)
 
 ## **Burp Suite** 
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=NzIzMGNjMTJhMTViZDQwZmY5ZDhiMWJhMjA2YTJmZWFfSTgzOTZJWjBmcUVhdkVDb2JTTGltbzl1T2xEVmp2clNfVG9rZW46VXR5bGJTYUJjbzh4WVV4OUViZ2MwYUU2bjBlXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-30.png)
 
 # 题目
 
@@ -16,7 +16,7 @@ web-24-felix
 
 F12直接可以找到flag
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=OTBlNjk0Y2Y5Y2YyZDZjMjkxNmUxMjQ5MzFjYTc0MGJfa0dZVktMR0tZTTBrTnRvYXFOOGx0RlRKUEFMaDdiVzNfVG9rZW46Q3o2UGI3REVQb3kzb2p4ZnJ2OGNqcXVDbmhOXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-31.png)
 
 ## **get_post**
 
@@ -24,19 +24,19 @@ F12直接可以找到flag
 
 第二部先用Burpsuite拦截到该请求信息，让后转到重放器，将get改为post，再将请求体格式更改，最后传递参数发送即可得到flag
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=ZDhiOWY0NzJiOWMxNTk1NDQ5ZmUyYTc2N2FhODQ1MGVfZFZqZldUWTV5eTNCdjJLR0h5MEI5NzkxMkpDcTd1SUtfVG9rZW46VWZnM2I2RjhabzRwcDR4SkVFTmNHdUlablNmXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-32.png)
 
 ## robots
 
-robots.txt是一种文本文件，**用于告知****搜索引擎爬虫****哪些页面可以被抓取、哪些页面不应被抓取**
+robots.txt是一种文本文件，**用于告知搜索引擎爬虫哪些页面可以被抓取、哪些页面不应被抓取**
 
 直接get找到不应被抓取的页面
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=MTUxOTk2ZDViZjBjYmRiNDZiNmE2ZDY1YTljYjU3OTlfWG1uV0M5QnFVcDZTN1Y5dFZ0dkxxUThKWktoMVJxNFZfVG9rZW46Qm9uYWJLNmtYb1BwdEl4RkNTemNsVTU2blJmXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-33.png)
 
 再次get就得到了flag
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=NjE2Y2NhMTdiYjNmMjljNjQzOTcxODY4YTI1NGNkMjlfWFlMRVl0VGhQTnRjbnBNT2YzeFMxSzB0VkdyRWxpMFZfVG9rZW46TFZZZ2JlZ0RQbzVHRWx4SXJHU2NOcWRXbmtmXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-34.png)
 
 ## AI编写的程序
 
@@ -121,21 +121,13 @@ if __name__ == "__main__":
 
 
 
-
-
-
-
-
-
-
-
 # Linux
 
 ## 环境搭建
 
 用VMware虚拟机搭建的，更新了源，配置了共享文件夹
 
-![img](https://hnusec-star.feishu.cn/space/api/box/stream/download/asynccode/?code=ZTBhZDBiMTUwNDJhZjEyYTE1ZDc1N2NjZmE5Mjg5MjFfZnlHVnFrREZmcUFadGVjVU8yUzNhUHhmUVNkUElMTTdfVG9rZW46SmdtemJxZ2tLb3p1eVB4RjBoT2N4dFFDbkNlXzE3NjA3NjA3MzA6MTc2MDc2NDMzMF9WNA)
+![](https://raw.githubusercontent.com/felix-zjh/TuChuang/main/img/1760786985600-35.png)
 
 ## 基础知识
 
