@@ -50,9 +50,37 @@ get_post
 
 
 # Linux基础命令学习
-![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760770582037-970a791d-ee3d-4afa-812b-654f98470160.png)
+`cd /`进入根目录
 
-![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760770596730-a68c6c07-6953-413a-ab5d-6ae0cf5175b3.png)![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760770612767-c68ea584-036e-4ae5-a3aa-e9ea5d0613ad.png)
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760860594965-0f3b9474-4883-4081-beb2-14c2e7ca9720.png)
 
+`cd /home`进入根目录下的home目录
 
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760860699045-d7087955-f849-4a35-9c9e-233260d2039b.png)
+
+`cd ../`切回上一级（当前目录下的所在的上一级）
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760860739200-47650a59-7d6f-4bf7-b8f3-1c5f40ce81a5.png)
+
+`cd -`切换到上一个命令打开的目录
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760860893052-4d29d6e8-50e4-4b47-9faa-fdb062b767c8.png)
+
+`ls`查看当前目录下的所有目录和文件
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760861030306-df959a44-1d2d-468a-98d9-ed09eed069b6.png)
+
+`ls -a`和ls作用一样，但多了隐藏文件
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760861088578-c8d7d8bb-4a22-4803-b03a-c1c8627cfe27.png)
+
+`ls /dir（文件名或目录）`查看指定目录或文件夹下的所有目录或文件
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760861280304-9af22d31-bd5f-47c7-bf67-67be51fc5267.png) 
+
+`vim 文件名` 进入文档后，需要编辑按i或者o，想要存储先按esc，再输入:wq，即编辑完保存文件
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760861527301-ba50ac06-8694-4aa4-903f-14c0c443841c.png)
+
+![](https://cdn.nlark.com/yuque/0/2025/png/54970229/1760861671660-d7d62d96-07cf-422f-912d-dcaba947382f.png)
 
