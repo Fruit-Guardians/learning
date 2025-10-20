@@ -1,5 +1,10 @@
+## 工具
+开发者工具
+![开发者工具](https://github.com/user-attachments/assets/5d9db756-505b-4384-9f72-0f270ec6db00)
+
 ## 搭建Linux环境
-![图片](C:/Users/hsx/Desktop/搭建Linux环境.png)
+![搭建Linux环境](https://github.com/user-attachments/assets/8fbdfc0b-cfaa-441f-8cde-be4284a38678)
+
 ## 用ai写一个python脚本，要求找到一个值经过md5加密后的前6位是15af95
 ''import hashlib
 
