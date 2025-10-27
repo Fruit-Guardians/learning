@@ -24,7 +24,7 @@
 ## Linux
 到官网上注册账号 下载并安装相应的VWware虚拟机软件
 ![这是图片](https://youke1.picui.cn/s1/2025/10/27/68ff5b88b37e9.png "Magic Gardens")
-确保虚拟网卡的安装
+确保虚拟网卡的正常安装
 ![这是图片](https://youke1.picui.cn/s1/2025/10/27/68ff5c54da570.png "Magic Gardens")
 在阿里云镜像站完成CentOS的安装
 ![这是图片](https://youke1.picui.cn/s1/2025/10/27/68ff5d4d9017a.png "Magic Gardens")
